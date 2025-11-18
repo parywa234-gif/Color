@@ -21,27 +21,4 @@
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^6.4.1"
   }
-}{
-  "name": "color-test-app",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "start": "serve dist -s -l $PORT"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "serve": "^14.2.1"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.2.1",
-    "vite": "^6.4.1"
-  }
 }
